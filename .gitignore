@@ -1,0 +1,9 @@
+# 주석
+secrets.yaml
+
+# logs (logs 이름을 가지는 파일 폴더와 그 내용들)
+# logs/debug.log (logs 폴더 밑에 있는 debug.log)
+# logs/*.log
+# logs/**/debug.log (logs 폴더 밑에 있는 폴더와 파일을 포함해서 debug.log를 제외)
+
+# 파일 하나 담기
